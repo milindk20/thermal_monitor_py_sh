@@ -7,7 +7,7 @@ services:
     volumes:
       - ./logs:/app/logs
     ports:
-      - "5001:5002"
+      - "5002:5002"
     command: >
       bash -c "
       apt-get update &&
