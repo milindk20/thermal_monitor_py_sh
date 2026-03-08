@@ -5,7 +5,7 @@ services:
     restart: unless-stopped
     working_dir: /app
     volumes:
-      - ./logs:/app/logs
+      - ./app:/app
     ports:
       - "5002:5002"
     command: >
@@ -19,4 +19,5 @@ services:
       pip install --upgrade pip &&
       pip3 install --no-cache-dir flask &&
       python3 app.py
+      ./thermal_monitor.sh >> cron.log
       "

@@ -1,0 +1,6 @@
+{
+    "log_dir": "./logs",
+    "log_prefix": "log_thermals.log",
+    "script_dir": ".",
+    "app_port": 5002
+}

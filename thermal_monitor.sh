@@ -2,11 +2,17 @@
 
 set -euo pipefail
 
-mkdir -p "$HOME/system_monitor/thermals/logs"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+CONFIG_FILE="$SCRIPT_DIR/config.json"
+
+LOG_DIR=$(python3 -c "import json; print(json.load(open('$CONFIG_FILE'))['log_dir'])")
+LOG_PREFIX=$(python3 -c "import json; print(json.load(open('$CONFIG_FILE'))['log_prefix'])")
+
+mkdir -p "$LOG_DIR"
 
 DATE=$(date '+%Y-%m-%d_%H-%M-%S')
 
-LOG_FILE="$HOME/system_monitor/thermals/logs/log_thermals.log$DATE"
+LOG_FILE="$LOG_DIR/${LOG_PREFIX}$DATE"
 INTERVAL=2   # seconds between checks
 
 
@@ -14,7 +20,7 @@ echo "Cron run started for $PWD $0 at $DATE"
 
 
 echo " Deleting old Logs once at $DATE"
-bash $HOME/system_monitor/thermals/AutoDeleteThermalsLogs.sh >> "$LOG_FILE" 2>&1
+bash "$SCRIPT_DIR/AutoDeleteThermalsLogs.sh" >> "$LOG_FILE" 2>&1
 
 
 while true; do

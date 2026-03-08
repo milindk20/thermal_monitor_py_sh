@@ -1,9 +1,11 @@
 #!/bin/bash
 set -euo pipefail
 
-# ===== CONFIGURATION =====
-TARGET_DIR="$HOME/system_monitor/thermals/logs"
-FILE_PREFIX="log_thermals.log"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+CONFIG_FILE="$SCRIPT_DIR/config.json"
+
+TARGET_DIR=$(python3 -c "import json; print(json.load(open('$CONFIG_FILE'))['log_dir'])")
+FILE_PREFIX=$(python3 -c "import json; print(json.load(open('$CONFIG_FILE'))['log_prefix'])")
 FILE_SUFFIX="*"
 
 MIN_FILE_COUNT=2      # Only delete if more than this number of files exist

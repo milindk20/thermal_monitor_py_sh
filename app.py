@@ -1,13 +1,22 @@
 import re
 import os
 import glob
+import json
 from flask import Flask, render_template_string, jsonify, request
 from datetime import datetime
 
+CONFIG_FILE = os.path.join(os.path.dirname(__file__), "config.json")
+
+def load_config():
+    with open(CONFIG_FILE, "r") as f:
+        return json.load(f)
+
+config = load_config()
+
 app = Flask(__name__)
 
-LOG_DIR = "./logs"
-LOG_PATTERN = "log_thermals.log*"
+LOG_DIR = config.get("log_dir", "./logs")
+LOG_PATTERN = config.get("log_prefix", "log_thermals.log") + "*"
 
 def get_log_files():
     files = sorted(glob.glob(os.path.join(LOG_DIR, LOG_PATTERN)))
@@ -623,4 +632,5 @@ def api_data():
     return jsonify(data)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5002, debug=True)
+    port = config.get("app_port", 5002)
+    app.run(host='0.0.0.0', port=port, debug=True)
