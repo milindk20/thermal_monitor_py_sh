@@ -1,0 +1,459 @@
+[2026-03-01 16:28:42] #######################################
+[2026-03-01 16:28:42] ###############  START  ###############
+[2026-03-01 16:28:42] #######################################
+[2026-03-01 16:28:42] Found 16 matching files.
+[2026-03-01 16:28:42] No files older than 5 days found.
+=============== 2026-03-01 16:28:42 ===============
+2026-03-01 16:28:42 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +69.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +69.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:42 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:42 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +60.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +62.0°C   || temp9:        +63.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:44 ===============
+2026-03-01 16:28:44 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +73.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +72.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:44 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:44 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +60.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +67.0°C   || temp9:        +64.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:46 ===============
+2026-03-01 16:28:46 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +65.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +63.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:46 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:46 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +60.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +62.0°C   || temp9:        +65.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:48 ===============
+2026-03-01 16:28:48 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +79.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +78.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:48 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:48 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +73.0°C   || temp9:        +65.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:50 ===============
+2026-03-01 16:28:50 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +63.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +62.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:50 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:50 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +65.0°C   || temp9:        +65.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:53 ===============
+2026-03-01 16:28:53 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +80.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +80.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:53 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:53 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +80.0°C   || temp9:        +66.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:55 ===============
+2026-03-01 16:28:55 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +79.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +75.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:55 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:55 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +79.0°C   || temp9:        +67.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:57 ===============
+2026-03-01 16:28:57 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +84.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +83.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:57 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:57 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +83.0°C   || temp9:        +67.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:28:59 ===============
+2026-03-01 16:28:59 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +84.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +84.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:28:59 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:28:59 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +84.0°C   || temp9:        +67.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:01 ===============
+2026-03-01 16:29:01 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +83.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +83.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:01 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:01 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +83.0°C   || temp9:        +69.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:03 ===============
+2026-03-01 16:29:03 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +85.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:03 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:03 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +85.0°C   || temp9:        +69.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:05 ===============
+2026-03-01 16:29:05 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +84.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +78.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:05 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:05 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +83.0°C   || temp9:        +67.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:08 ===============
+2026-03-01 16:29:08 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +79.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +76.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:08 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:08 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +80.0°C   || temp9:        +68.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:10 ===============
+2026-03-01 16:29:10 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +85.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +86.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:10 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:10 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +68.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:12 ===============
+2026-03-01 16:29:12 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +87.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +87.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:12 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:12 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +69.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:14 ===============
+2026-03-01 16:29:14 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +85.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +86.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:14 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:14 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +69.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:16 ===============
+2026-03-01 16:29:16 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +85.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +86.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:16 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:16 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +87.0°C   || temp9:        +70.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:18 ===============
+2026-03-01 16:29:18 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +87.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +86.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:18 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:18 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +85.0°C   || temp9:        +70.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:20 ===============
+2026-03-01 16:29:20 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +85.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:20 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:20 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +70.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:22 ===============
+2026-03-01 16:29:22 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +87.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:22 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:22 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +82.0°C   || temp9:        +70.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:24 ===============
+2026-03-01 16:29:24 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +68.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +71.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:24 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:24 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +70.0°C   || temp9:        +69.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:26 ===============
+2026-03-01 16:29:26 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +78.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +79.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:26 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:26 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +76.0°C   || temp9:        +68.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:29 ===============
+2026-03-01 16:29:29 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +74.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +66.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:29 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:29 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +72.0°C   || temp9:        +68.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:31 ===============
+2026-03-01 16:29:31 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +71.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +74.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:31 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:31 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +72.0°C   || temp9:        +67.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:33 ===============
+2026-03-01 16:29:33 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +82.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +81.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:33 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:33 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +81.0°C   || temp9:        +70.0°C   || temp10:       +66.0°C   || 
+
+=============== 2026-03-01 16:29:35 ===============
+2026-03-01 16:29:35 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +80.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +77.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:35 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:35 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +77.0°C   || temp9:        +69.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:37 ===============
+2026-03-01 16:29:37 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +84.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +81.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:37 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:37 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +83.0°C   || temp9:        +69.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:39 ===============
+2026-03-01 16:29:39 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +75.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +76.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:39 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:39 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +78.0°C   || temp9:        +67.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:41 ===============
+2026-03-01 16:29:41 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +67.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +65.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:41 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:41 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +68.0°C   || temp9:        +65.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:43 ===============
+2026-03-01 16:29:43 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +60.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +57.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:43 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:43 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +60.0°C   || temp9:        +65.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:45 ===============
+2026-03-01 16:29:45 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +58.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +55.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:45 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:45 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +57.0°C   || temp9:        +64.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:47 ===============
+2026-03-01 16:29:47 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +58.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +55.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:47 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:47 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +57.0°C   || temp9:        +62.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:49 ===============
+2026-03-01 16:29:49 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +58.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +55.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:49 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:49 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +59.0°C   || temp9:        +63.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:51 ===============
+2026-03-01 16:29:51 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +56.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +53.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:51 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:51 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +56.0°C   || temp9:        +63.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:29:53 ===============
+2026-03-01 16:29:53 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +57.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +52.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:54 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:54 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +55.0°C   || temp9:        +63.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:29:56 ===============
+2026-03-01 16:29:56 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +57.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +53.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:56 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:56 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +56.0°C   || temp9:        +62.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:29:58 ===============
+2026-03-01 16:29:58 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +55.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +52.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:29:58 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:29:58 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +55.0°C   || temp9:        +61.0°C   || temp10:       +67.0°C   || 
+
+=============== 2026-03-01 16:30:00 ===============
+2026-03-01 16:30:00 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +54.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +51.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:00 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:00 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +54.0°C   || temp9:        +60.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:02 ===============
+2026-03-01 16:30:02 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +62.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +65.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:02 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:02 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +62.0°C   || temp9:        +63.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:04 ===============
+2026-03-01 16:30:04 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +58.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +55.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:04 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:04 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +58.0°C   || temp9:        +62.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:06 ===============
+2026-03-01 16:30:06 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +56.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +52.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:06 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:06 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +55.0°C   || temp9:        +62.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:08 ===============
+2026-03-01 16:30:08 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +55.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +52.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:08 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:08 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +54.0°C   || temp9:        +60.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:10 ===============
+2026-03-01 16:30:10 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +48.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:10 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:10 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +54.0°C   || temp9:        +61.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:12 ===============
+2026-03-01 16:30:12 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +53.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +51.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:12 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:12 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +53.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:14 ===============
+2026-03-01 16:30:14 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +54.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +49.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:14 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:14 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +54.0°C   || temp9:        +62.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:16 ===============
+2026-03-01 16:30:16 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +53.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:16 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:16 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +53.0°C   || temp9:        +59.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:18 ===============
+2026-03-01 16:30:18 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:18 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:18 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +53.0°C   || temp9:        +59.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:20 ===============
+2026-03-01 16:30:20 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +51.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +49.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:21 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:21 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +52.0°C   || temp9:        +60.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:23 ===============
+2026-03-01 16:30:23 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +49.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:23 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:23 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +52.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:25 ===============
+2026-03-01 16:30:25 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +53.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:25 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:25 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +53.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:27 ===============
+2026-03-01 16:30:27 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +53.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:27 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:27 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +52.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:29 ===============
+2026-03-01 16:30:29 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:29 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:29 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.7°C   || temp7:         +0.0°C   || temp8:        +51.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:31 ===============
+2026-03-01 16:30:31 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +53.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:31 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:31 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +51.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:33 ===============
+2026-03-01 16:30:33 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:33 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:33 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +51.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:35 ===============
+2026-03-01 16:30:35 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +50.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:35 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:35 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +51.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:37 ===============
+2026-03-01 16:30:37 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +55.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +52.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:37 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:37 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +54.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:39 ===============
+2026-03-01 16:30:39 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +49.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:39 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:39 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +51.0°C   || temp9:        +58.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:41 ===============
+2026-03-01 16:30:41 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +51.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +48.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:41 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:41 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +50.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:43 ===============
+2026-03-01 16:30:43 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +48.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:43 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:43 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +50.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:45 ===============
+2026-03-01 16:30:45 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +48.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:45 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:45 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +50.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:47 ===============
+2026-03-01 16:30:47 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +51.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +48.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:48 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:48 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +50.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:50 ===============
+2026-03-01 16:30:50 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +56.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +53.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:50 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:50 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +59.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:52 ===============
+2026-03-01 16:30:52 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +50.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +47.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:52 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:52 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +50.0°C   || temp9:        +56.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:54 ===============
+2026-03-01 16:30:54 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +50.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +47.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:54 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:54 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +50.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:56 ===============
+2026-03-01 16:30:56 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +52.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +48.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:56 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:56 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +60.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +52.0°C   || temp9:        +57.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:30:58 ===============
+2026-03-01 16:30:58 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +58.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +60.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:30:58 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:30:58 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +59.0°C   || temp9:        +60.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:00 ===============
+2026-03-01 16:31:00 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +62.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +60.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:00 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:00 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +68.0°C   || temp9:        +61.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:02 ===============
+2026-03-01 16:31:02 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +64.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +60.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:02 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:02 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +61.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +61.0°C   || temp9:        +60.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:04 ===============
+2026-03-01 16:31:04 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +60.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +57.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:04 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:04 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +60.0°C   || temp9:        +59.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:06 ===============
+2026-03-01 16:31:06 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +73.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +70.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:06 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:06 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +75.0°C   || temp9:        +62.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:08 ===============
+2026-03-01 16:31:08 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +81.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +80.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:08 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:08 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +81.0°C   || temp9:        +64.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:10 ===============
+2026-03-01 16:31:10 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +82.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +80.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:11 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:11 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +62.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +82.0°C   || temp9:        +64.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:13 ===============
+2026-03-01 16:31:13 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +83.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +81.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:13 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:13 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +83.0°C   || temp9:        +64.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:15 ===============
+2026-03-01 16:31:15 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +84.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +81.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:15 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:15 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +83.0°C   || temp9:        +65.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:17 ===============
+2026-03-01 16:31:17 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +84.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +82.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:17 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:17 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +84.0°C   || temp9:        +66.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:19 ===============
+2026-03-01 16:31:19 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +85.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:19 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:19 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +63.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +85.0°C   || temp9:        +66.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:21 ===============
+2026-03-01 16:31:21 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +85.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:21 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:21 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +85.0°C   || temp9:        +66.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:23 ===============
+2026-03-01 16:31:23 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +85.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:23 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:23 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +85.0°C   || temp9:        +67.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:25 ===============
+2026-03-01 16:31:25 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +85.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:25 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:26 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +69.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:28 ===============
+2026-03-01 16:31:28 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +87.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +86.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:28 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:28 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +66.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:30 ===============
+2026-03-01 16:31:30 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +86.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +86.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:30 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:30 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +86.0°C   || temp9:        +68.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:32 ===============
+2026-03-01 16:31:32 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +87.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +88.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:32 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:32 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +64.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +87.0°C   || temp9:        +69.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:34 ===============
+2026-03-01 16:31:34 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +87.0°C  (high = +80.0°C, crit = +90.0°C) || Core 2:       +88.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:34 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:34 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +48.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +88.0°C   || temp9:        +67.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:36 ===============
+2026-03-01 16:31:36 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +88.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +88.0°C  (high = +80.0°C, crit = +90.0°C)
+2026-03-01 16:31:36 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:36 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +88.0°C   || temp9:        +69.0°C   || temp10:       +69.0°C   || 
+
+=============== 2026-03-01 16:31:38 ===============
+2026-03-01 16:31:38 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +88.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:38 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:38 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +89.0°C   || temp9:        +68.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:40 ===============
+2026-03-01 16:31:40 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +88.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:40 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:40 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +89.0°C   || temp9:        +70.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:43 ===============
+2026-03-01 16:31:43 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +88.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:43 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:43 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +88.0°C   || temp9:        +69.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:45 ===============
+2026-03-01 16:31:45 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +87.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +88.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:45 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:45 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +65.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +88.0°C   || temp9:        +70.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:47 ===============
+2026-03-01 16:31:47 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +90.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:47 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:47 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +66.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +89.0°C   || temp9:        +71.0°C   || temp10:       +68.0°C   || 
+
+=============== 2026-03-01 16:31:49 ===============
+2026-03-01 16:31:49 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:49 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:49 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +66.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C   || temp7:         +0.0°C   || temp8:        +89.0°C   || temp9:        +70.0°C   || temp10:       +69.0°C   || 
+
+=============== 2026-03-01 16:31:51 ===============
+2026-03-01 16:31:51 |CPU| coretemp-isa-0000 || Adapter: ISA adapter || Core 0:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT) || Core 2:       +89.0°C  (high = +80.0°C, crit = +90.0°C)  ALARM (CRIT)
+2026-03-01 16:31:51 |BAT| BAT0-acpi-0 || Adapter: ACPI interface || in0:          12.43 V   || curr1:         0.00 A  
+2026-03-01 16:31:51 |ACPI| acpitz-acpi-0 || Adapter: ACPI interface || temp1:        +66.0°C   || temp2:         +0.0°C   || temp3:         +0.0°C   || temp4:        +49.0°C   || temp5:         +0.0°C   || temp6:        +30.8°C 
